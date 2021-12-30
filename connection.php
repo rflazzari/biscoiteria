@@ -2,8 +2,8 @@
 
 $host = "localhost";
 $port = 3306;
-$user = "bis_sys";
-$pass = "bisSys01..";
+$user = "root";
+$pass = "";
 $dbname = "biscoiteria";
 
 // Cria conexão
