@@ -21,7 +21,7 @@
       <div class="dropdown-menu">
 		<a class="dropdown-item" href="cad_produto.php">Produtos</a>
         <a class="dropdown-item" href="cad_tipo_produto.php">Tipos de produto</a>
-		<a class="dropdown-item" href="cad_item.php">Itens</a>
+		<a class="dropdown-item" href="cad_material.php">Materiais</a>
       </div>
     </li>
 
