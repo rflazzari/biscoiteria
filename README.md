@@ -36,3 +36,4 @@ E/OU
 #### Criar o banco de dados e usuário com o script /bd/criar_bd.sql neste repo;
 
 
+parabens, projeto muito daora!
